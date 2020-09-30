@@ -1,0 +1,10 @@
+git-des/com
+:wq- save file and quite editor
+i- enter inti insert mode
+:w- save to a file 
+git in it- creates new local repo
+git add -a stages all changed files
+G- move to end of the file
+git merge- merges remote branch into currnt local branch
+git status- shows status of changes as untracked, modified or staged
+:q- quite out of editor file
